@@ -1,0 +1,22 @@
+{
+    "name": "codememory/dependency-injection",
+    "license": "MIT",
+    "description": "",
+    "authors": [
+        {
+            "name": "Danil",
+            "email": "kostynd1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Codememory\\Container\\DependencyInjection\\": ""
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "require": {
+        "codememory/support": "^1.0"
+    }
+}
