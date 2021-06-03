@@ -17,6 +17,6 @@
         "symfony/var-dumper": "^5.2"
     },
     "require": {
-        "codememory/support": "^1.0"
+        "codememory/support": "^1.2.1"
     }
 }
